@@ -1,5 +1,7 @@
 Data Analytics Questions
+
 Assignment - 1
+
 1)Commands for Performing simple linear regression (create linear regression model)?
 regressor = LinearRegression() # Creating a regressor
 regressor.fit(X_train,y_train) # Fiting the dataset into the model
